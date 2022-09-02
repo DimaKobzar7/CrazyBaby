@@ -1,5 +1,5 @@
-CrazyBaby (pet project)
-Technology stack: JavaScript, CSS Grid, SCSS
-Preview  [DEMO LINK](https://DimaKobzar7.github.io/CrazyBaby/)
-Design: 
+1. CrazyBaby (pet project)
+2. Technology stack: JavaScript, CSS Grid, SCSS
+3. Preview  [DEMO LINK](https://DimaKobzar7.github.io/CrazyBaby/)
+4. Design: 
    
